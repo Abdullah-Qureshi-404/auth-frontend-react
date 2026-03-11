@@ -313,8 +313,3 @@ npm run preview
 
 ---
 
-If you want, I can also add:
-
-- Backend setup checklist template section (for Node/Express)
-- API response examples for each endpoint
-- Deployment section for Vercel/Netlify with environment setup
